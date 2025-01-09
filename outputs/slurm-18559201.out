@@ -1,0 +1,3 @@
+Usage: main_classification.py [options]
+
+main_classification.py: error: no such option: --weight_decay
